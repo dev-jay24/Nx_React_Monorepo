@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Gentium Basic';
+  src:
+    url('GentiumBasic-BoldItalic.woff2') format('woff2'),
+    url('GentiumBasic-BoldItalic.woff') format('woff'),
+    url('GentiumBasic-BoldItalic.ttf') format('truetype'),
+    url('GentiumBasic-BoldItalic.svg#GentiumBasic-BoldItalic') format('svg');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gentium Basic';
+  src:
+    url('GentiumBasic-Italic.woff2') format('woff2'),
+    url('GentiumBasic-Italic.woff') format('woff'),
+    url('GentiumBasic-Italic.ttf') format('truetype'),
+    url('GentiumBasic-Italic.svg#GentiumBasic-Italic') format('svg');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gentium Basic';
+  src:
+    url('GentiumBasic-Bold.woff2') format('woff2'),
+    url('GentiumBasic-Bold.woff') format('woff'),
+    url('GentiumBasic-Bold.ttf') format('truetype'),
+    url('GentiumBasic-Bold.svg#GentiumBasic-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gentium Basic';
+  src:
+    url('GentiumBasic.woff2') format('woff2'),
+    url('GentiumBasic.woff') format('woff'),
+    url('GentiumBasic.ttf') format('truetype'),
+    url('GentiumBasic.svg#GentiumBasic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
